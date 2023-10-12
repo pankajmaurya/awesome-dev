@@ -1,7 +1,12 @@
 # awesome-dev
 
-## awesome resources
+## awesome resources which I use directly to write code
+- https://github.com/public-apis/public-apis
 - https://github.com/pankajmaurya/awesome-compose (docker compose files collection)
+- https://github.com/normanmaurer/netty-in-action
+- https://github.com/springdoc/springdoc-openapi-demos
+
+## awesome resources (more general)
 - https://github.com/pankajmaurya/awesome-microservices
 - https://github.com/pankajmaurya/developer-roadmap (it drives roadmap.sh)
 - https://github.com/pankajmaurya/awesome-typescript
@@ -13,8 +18,6 @@
 - https://github.com/pankajmaurya/coding-interview-university
 - https://github.com/pankajmaurya/the-book-of-secret-knowledge
 - https://github.com/pankajmaurya/the-art-of-command-line
-- https://github.com/normanmaurer/netty-in-action
-- https://github.com/springdoc/springdoc-openapi-demos
 
 ## awesome books
 - https://github.com/pankajmaurya/free-programming-books
