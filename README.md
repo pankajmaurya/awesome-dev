@@ -10,7 +10,7 @@
 
 ## awesome resources (more general)
 - https://github.com/pankajmaurya/awesome-microservices
-- https://github.com/pankajmaurya/developer-roadmap (it drives roadmap.sh)
+- https://github.com/kamranahmedse/developer-roadmap (it drives roadmap.sh)
 - https://github.com/dzharii/awesome-typescript
 - https://github.com/pankajmaurya/Best-websites-a-programmer-should-visit
 - https://github.com/pankajmaurya/awesome
