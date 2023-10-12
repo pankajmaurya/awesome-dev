@@ -6,7 +6,6 @@
 - https://github.com/pankajmaurya/developer-roadmap (it drives roadmap.sh)
 - https://github.com/pankajmaurya/awesome-typescript
 - https://github.com/pankajmaurya/Best-websites-a-programmer-should-visit
-- https://github.com/pankajmaurya/awesome-scalability
 - https://github.com/pankajmaurya/awesome
 - https://github.com/pankajmaurya/awesome-python
 - https://github.com/pankajmaurya/All-Algorithms-Python (from https://the-algorithms.com/, look at algorithms in java etc)
@@ -18,3 +17,7 @@
 ## awesome books
 - https://github.com/pankajmaurya/free-programming-books
 - https://github.com/pankajmaurya/Textbooks-and-Papers
+
+## awesome system design
+- https://github.com/pankajmaurya/awesome-scalability
+- https://github.com/systemdesignfightclub/SDFC
