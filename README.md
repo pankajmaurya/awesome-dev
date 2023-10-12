@@ -23,7 +23,7 @@
 - https://github.com/alexmojaki/futurecoder
 
 ## awesome books
-- https://github.com/pankajmaurya/free-programming-books
+- https://github.com/EbookFoundation/free-programming-books
 - https://github.com/GeorgeQLe/Textbooks-and-Papers
 
 ## awesome system design
