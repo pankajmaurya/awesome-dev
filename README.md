@@ -29,5 +29,5 @@
 - https://github.com/GeorgeQLe/Textbooks-and-Papers
 
 ## awesome system design
-- https://github.com/pankajmaurya/awesome-scalability
+- https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/systemdesignfightclub/SDFC
