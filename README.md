@@ -14,7 +14,7 @@
 - https://github.com/dzharii/awesome-typescript
 - https://github.com/pankajmaurya/Best-websites-a-programmer-should-visit
 - https://github.com/pankajmaurya/awesome
-- https://github.com/pankajmaurya/awesome-python
+- https://github.com/vinta/awesome-python
 - https://github.com/pankajmaurya/All-Algorithms-Python (from https://the-algorithms.com/, look at algorithms in java etc)
 - https://github.com/pankajmaurya/build-your-own-x
 - https://github.com/pankajmaurya/coding-interview-university
