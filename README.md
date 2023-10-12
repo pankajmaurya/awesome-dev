@@ -14,6 +14,7 @@
 - https://github.com/pankajmaurya/the-book-of-secret-knowledge
 - https://github.com/pankajmaurya/the-art-of-command-line
 - https://github.com/normanmaurer/netty-in-action
+- https://github.com/springdoc/springdoc-openapi-demos
 
 ## awesome books
 - https://github.com/pankajmaurya/free-programming-books
