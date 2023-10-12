@@ -13,6 +13,7 @@
 - https://github.com/pankajmaurya/coding-interview-university
 - https://github.com/pankajmaurya/the-book-of-secret-knowledge
 - https://github.com/pankajmaurya/the-art-of-command-line
+- https://github.com/normanmaurer/netty-in-action
 
 ## awesome books
 - https://github.com/pankajmaurya/free-programming-books
