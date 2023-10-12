@@ -6,6 +6,7 @@
 - https://github.com/normanmaurer/netty-in-action
 - https://github.com/springdoc/springdoc-openapi-demos
 - https://github.com/softchris/golang-book
+- https://github.com/torokmark/design_patterns_in_typescript
 
 ## awesome resources (more general)
 - https://github.com/pankajmaurya/awesome-microservices
