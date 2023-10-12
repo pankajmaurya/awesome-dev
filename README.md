@@ -2,7 +2,7 @@
 
 ## awesome resources which I use directly to write code
 - https://github.com/public-apis/public-apis
-- https://github.com/pankajmaurya/awesome-compose (docker compose files collection)
+- https://github.com/docker/awesome-compose (docker compose files collection)
 - https://github.com/normanmaurer/netty-in-action
 - https://github.com/springdoc/springdoc-openapi-demos
 - https://github.com/softchris/golang-book
