@@ -24,7 +24,7 @@
 
 ## awesome books
 - https://github.com/pankajmaurya/free-programming-books
-- https://github.com/pankajmaurya/Textbooks-and-Papers
+- https://github.com/GeorgeQLe/Textbooks-and-Papers
 
 ## awesome system design
 - https://github.com/pankajmaurya/awesome-scalability
