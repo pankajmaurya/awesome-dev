@@ -8,6 +8,11 @@
 - https://github.com/softchris/golang-book
 - https://github.com/torokmark/design_patterns_in_typescript
 
+# some clojure pointers
+- https://github.com/zhuomingliang/hello-clojure-with-http-kit
+- https://github.com/jclosure/my-app
+- https://github.com/stuarthalloway/clojure-from-java
+
 ## awesome resources (more general)
 - https://github.com/mfornos/awesome-microservices
 - https://github.com/dzharii/awesome-typescript
