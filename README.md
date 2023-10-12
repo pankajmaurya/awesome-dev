@@ -16,7 +16,7 @@
 - https://github.com/vinta/awesome-python
 - https://github.com/pankajmaurya/All-Algorithms-Python (from https://the-algorithms.com/, look at algorithms in java etc)
 - https://github.com/codecrafters-io/build-your-own-x
-- https://github.com/pankajmaurya/the-book-of-secret-knowledge
+- https://github.com/trimstray/the-book-of-secret-knowledge
 - https://github.com/pankajmaurya/the-art-of-command-line
 - https://github.com/alexmojaki/futurecoder
 - https://github.com/dzharii/awesome-elasticsearch
