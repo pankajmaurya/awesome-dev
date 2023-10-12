@@ -9,7 +9,7 @@
 - https://github.com/torokmark/design_patterns_in_typescript
 
 ## awesome resources (more general)
-- https://github.com/pankajmaurya/awesome-microservices
+- https://github.com/mfornos/awesome-microservices
 - https://github.com/kamranahmedse/developer-roadmap (it drives roadmap.sh)
 - https://github.com/dzharii/awesome-typescript
 - https://github.com/pankajmaurya/Best-websites-a-programmer-should-visit
