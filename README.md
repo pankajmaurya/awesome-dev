@@ -5,6 +5,7 @@
 - https://github.com/pankajmaurya/awesome-compose (docker compose files collection)
 - https://github.com/normanmaurer/netty-in-action
 - https://github.com/springdoc/springdoc-openapi-demos
+- https://github.com/softchris/golang-book
 
 ## awesome resources (more general)
 - https://github.com/pankajmaurya/awesome-microservices
