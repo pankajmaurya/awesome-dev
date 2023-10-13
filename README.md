@@ -5,6 +5,7 @@
 - https://github.com/docker/awesome-compose (docker compose files collection)
 - https://github.com/normanmaurer/netty-in-action
 - https://github.com/springdoc/springdoc-openapi-demos
+- https://github.com/tsarenkotxt/poc-spring-boot-dynamic-controller (used this for a Godspeed V1 prototype and eventually discarded)
 - https://github.com/softchris/golang-book
 - https://github.com/torokmark/design_patterns_in_typescript
 
